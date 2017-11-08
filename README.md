@@ -1,4 +1,4 @@
-[![](../mawang.gif)](#)
+[![](images/mawang.gif)](#)
 
  
 
